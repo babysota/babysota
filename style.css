@@ -88,7 +88,6 @@ li {
   align-items: center;
   justify-content: space-between;
   padding: 0 20px;
-  /* ↑上下paddingあると公開時におかしくなるため、0にしている */
 }
 
 .header-logo {
