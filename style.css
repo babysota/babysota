@@ -4,6 +4,8 @@ body {
   line-height: 1.8;
   letter-spacing: .8px;
   color: #333;
+  margin: 0;
+  padding: 0;
 }
 
 a {
@@ -85,7 +87,7 @@ li {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 15px 20px;
+  padding: 0 20px;
 }
 
 .header-logo {
@@ -125,7 +127,7 @@ li {
 ---------------------------------*/
 .main-visual-img {
   height: 700px;
-  background-image: url(img/mv.jpg);
+  background-image: url(../img/mv.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -215,7 +217,6 @@ li {
 .skill-item {
   width: 40%;
   text-align: center;
-  padding: 0 40px;
 }
 
 .skill-img {
