@@ -127,7 +127,7 @@ li {
  メインビジュアル
 ---------------------------------*/
 .main-visual-img {
-  background-image: url(../img/main-img.jpg);
+  background-image: url(img/main-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
